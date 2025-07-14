@@ -1,0 +1,1 @@
+# smart-id-card-blind-navigation
