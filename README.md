@@ -37,8 +37,6 @@ Visually impaired students face challenges navigating new environments, especial
 | USB Power Supply     | To power NodeMCU               |
 
 
----
-
 ## 🏁 Badges
 
 ![Microcontroller](https://img.shields.io/badge/Microcontroller-ESP8266-blue)
